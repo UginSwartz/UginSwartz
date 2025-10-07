@@ -1,16 +1,18 @@
 ## Hi there 👋
+About me
+I am a beginner Python developer who is actively developing in this field. 
+I have experience working with basic Python technologies and frameworks. 
+I am striving for professional growth and am ready to apply my knowledge in real projects.
 
-<!--
-**UginSwartz/UginSwartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Key skills
+Python: basic syntax, OOP, working with libraries
 
-Here are some ideas to get you started:
+Frameworks: YES
+Databases: YES
+Tools: YES
+Additional: HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+English: technical level of reading documentation
+Projects: I would like to start
+
+Education: the one that is needed to successfully complete tasks
